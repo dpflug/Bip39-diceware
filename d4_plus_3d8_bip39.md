@@ -1,9 +1,9 @@
-# Generate a bip39 passphrase using 3d8 and 1d4
+# Generate a bip39 passphrase using 1d4 and 3d8
 
 1. Roll all the dice
 2. Consistently and fairly, to avoid bias, arrange the dice in order left to
    right, with the d4 first.
-3. Look up the result in the tables below.
+3. Look up the result in the tables below. No re-rolls necessary.
 4. After you are finished all 12 words, the last word may need adjustment in
    order to meet the checksum requirements.
 5. Using a bip39 wallet try each of the words in the block of 16 that the last
