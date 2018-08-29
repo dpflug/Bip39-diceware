@@ -2,7 +2,7 @@
 
 ## Generate a Bip39 Wallet Mnemonic using hardware random number generators (in the form of dice)
 
-### Three 8-sided dice and one 4-sided die
+### Three 8-sided dice and one 4-sided die (requires no re-rolls)
 
 * [Markdown source](d4_plus_3d8_bip39.md)
 * [web version](d4_plus_3d8_bip39.html)
